@@ -33,7 +33,7 @@ const funcbut = () => {
         img3.src = "assets/gabi.jpeg"
     }
     if (ad.value === "Hulk") {
-        img3.src = "assets/Hulk.jpeg"
+        img3.src = "assets/hulk.jpeg"
     }
     if (al.value === "Dudu") {
         img4.src = "assets/dudu.jpeg"
